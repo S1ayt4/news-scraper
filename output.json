@@ -1,0 +1,125 @@
+{
+  "timestamp": "2025-04-23T14:42:07.622301",
+  "titles": [
+    {
+      "title": "MinC Is Not Cygwin",
+      "link": "https://minc.commandlinerevolution.nl/english/home.html"
+    },
+    {
+      "title": "Open Source Projects Receive Funding to Reclaim the Public Internet",
+      "link": "https://nlnet.nl/news/2025/20250422-announcement-grants-CommonsFund.html"
+    },
+    {
+      "title": "Show HN: Node.js video tutorials where you can edit and run the code",
+      "link": "item?id=43771365"
+    },
+    {
+      "title": "How a 20 year old bug in GTA San Andreas surfaced in Windows 11 24H2",
+      "link": "https://cookieplmonster.github.io/2025/04/23/gta-san-andreas-win11-24h2-bug/"
+    },
+    {
+      "title": "Collatz's Ant",
+      "link": "https://gbragafibra.github.io/2025/01/08/collatz_ant2.html"
+    },
+    {
+      "title": "Native visionOS platform support",
+      "link": "https://github.com/godotengine/godot/pull/105628"
+    },
+    {
+      "title": "How MOS 6502 Illegal Opcodes Work \u2013 Michael Steil",
+      "link": "https://www.pagetable.com/?p=39"
+    },
+    {
+      "title": "Sixty Years On, We Still Dream of the Arrow",
+      "link": "https://watershedmagazine.com/features/sixty-years-on-we-still-dream-of-the-arrow/"
+    },
+    {
+      "title": "Geocoding APIs compared: Pricing, free tiers and terms of use",
+      "link": "https://www.bitoff.org/geocoding-apis-comparison/"
+    },
+    {
+      "title": "The Gruen Transfer is consuming the internet",
+      "link": "https://sebs.website/blog/the%20gruen-transfer-is-consuming-the-internet"
+    },
+    {
+      "title": "How I Blog with Obsidian, Hugo, GitHub, and Cloudflare \u2013 Zero Cost, Fully Owned",
+      "link": "https://ingau.me/blog/how-i-write-my-blogs-in-obsidian-and-publish-instantly/"
+    },
+    {
+      "title": "Pixel is a unit of length and area",
+      "link": "https://www.nayuki.io/page/pixel-is-a-unit-of-length-and-area"
+    },
+    {
+      "title": "Atuin Desktop: Runbooks That Run",
+      "link": "https://blog.atuin.sh/atuin-desktop-runbooks-that-run/"
+    },
+    {
+      "title": "Physicists Designed a Quantum Rubik's Cube and Found the Best Way to Solve It",
+      "link": "https://www.sciencealert.com/physicists-designed-a-quantum-rubiks-cube-and-found-the-best-way-to-solve-it"
+    },
+    {
+      "title": "Why Does My eBPF Program Work on One Kernel but Fail on Another?",
+      "link": "https://ebpfchirp.substack.com/p/why-does-my-ebpf-program-work-on"
+    },
+    {
+      "title": "Solidjs: Simple and performant reactivity for building user interfaces",
+      "link": "https://www.solidjs.com/"
+    },
+    {
+      "title": "Sapphire: Rust based package manager for macOS (Homebrew replacement)",
+      "link": "https://github.com/alexykn/sapphire"
+    },
+    {
+      "title": "EU fines Apple \u20ac500M and Meta \u20ac200M",
+      "link": "https://www.politico.eu/article/eu-fines-apple-meta-breaking-europe-digital-markets-act-dma/"
+    },
+    {
+      "title": "Restoring Old Software for Child Learning Safety",
+      "link": "https://rietta.com/blog/child-learning-with-old-software/"
+    },
+    {
+      "title": "The Ghosts of Gaelic",
+      "link": "https://www.historytoday.com/archive/behind-times/ghosts-gaelic"
+    },
+    {
+      "title": "CSS Hell",
+      "link": "https://csshell.com/"
+    },
+    {
+      "title": "Demystifying decorators: They don't need to be cryptic",
+      "link": "https://www.thepythoncodingstack.com/p/demystifying-python-decorators"
+    },
+    {
+      "title": "ClickHouse gets lazier and faster: Introducing lazy materialization",
+      "link": "https://clickhouse.com/blog/clickhouse-gets-lazier-and-faster-introducing-lazy-materialization"
+    },
+    {
+      "title": "Algebraic Semantics for Machine Knitting",
+      "link": "https://uwplse.org/2025/03/31/Algebraic-Knitting.html"
+    },
+    {
+      "title": "How to quickly charge your smartphone: fast charging technologies in detail",
+      "link": "https://eb43.github.io/articles/fast-charging-technologies-in-detail.html"
+    },
+    {
+      "title": "The Last of Their Kind",
+      "link": "https://nautil.us/the-last-of-their-kind-1204387/"
+    },
+    {
+      "title": "Show HN: Rowboat \u2013 Open-source IDE for multi-agent systems",
+      "link": "https://github.com/rowboatlabs/rowboat"
+    },
+    {
+      "title": "Subnanosecond Flash Memory",
+      "link": "https://www.nature.com/articles/s41586-025-08839-w"
+    },
+    {
+      "title": "\u03c00.5: A VLA with open-world generalization",
+      "link": "https://pi.website/blog/pi05"
+    },
+    {
+      "title": "Ping, You've Got Whale: AI detection system alerts ships of whales in their path",
+      "link": "https://www.biographic.com/ping-youve-got-whale/"
+    }
+  ]
+}
