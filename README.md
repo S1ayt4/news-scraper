@@ -18,34 +18,34 @@ To get started, clone this repository to your local machine or open it directly 
 "```bash
 git clone https://github.com/YOUR_USERNAME/news-scraper.git
 cd news-scraper
-Install dependencies
+## Install dependencies
 In your terminal, install the required Python libraries with the following command:
 pip install -r requirements.txt
-Usage 🚀
+## Usage 🚀
 Once you have the dependencies installed, you can run the scraper using Python:
 python scraper.py
 The scraper will:
 
-Retrieve the latest headlines from Hacker News
+. Retrieve the latest headlines from Hacker News
 
-Save them in a output.json file in the same directory
+. Save them in a output.json file in the same directory
 
 You should see an output like:
 ✅ Scraping complete. Results saved in output.json
-Project Structure 🗂
-scraper.py: The main Python script that does the scraping.
+## Project Structure 🗂
+. scraper.py: The main Python script that does the scraping.
 
-requirements.txt: Lists the dependencies required to run the scraper (requests, beautifulsoup4).
+. requirements.txt: Lists the dependencies required to run the scraper (requests, beautifulsoup4).
 
-Dockerfile: If you want to run the scraper in a Docker container.
+. Dockerfile: If you want to run the scraper in a Docker container.
 
-output.json: Where the scraped data is saved.
+. output.json: Where the scraped data is saved.
 
-Contributing 🤝
+## Contributing 🤝
 Feel free to fork this repository, open an issue, or submit a pull request. Contributions are welcome!
 
-License 📝
+## License 📝
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Contact 📬
+## Contact 📬
 If you have any questions or feedback, feel free to contact me through GitHub
