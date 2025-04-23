@@ -49,20 +49,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 Contact 📬
 If you have any questions or feedback, feel free to contact me through GitHub
-
-5. **Personnaliser certaines sections** :
-   - **Remplacer `YOUR_USERNAME`** par ton nom d'utilisateur GitHub, par exemple : `https://github.com/ton_nom_d_utilisateur/news-scraper`.
-   - Si tu veux, tu peux aussi ajouter ton adresse e-mail dans la section **Contact**.
-
-6. **Enregistrer et publier tes modifications** :
-   - Une fois que tu as copié et personnalisé le texte, descends en bas de la page.
-   - Dans la section **"Commit changes"**, ajoute un message comme "Ajout du README.md" (ou autre selon ce que tu préfères).
-   - Clique sur **"Commit changes"** pour sauvegarder et publier ton fichier `README.md` sur GitHub.
-
----
-
-### Et voilà ! 🎉
-
-Ton fichier `README.md` est maintenant mis à jour et documente bien ton projet. Ce fichier servira de guide à tous ceux qui consultent ton repository, et il rendra ton projet plus compréhensible et facile à utiliser.
-
-Si tu as d'autres questions ou si quelque chose n'est pas encore clair, fais-le moi savoir ! 😊
