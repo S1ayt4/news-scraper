@@ -15,8 +15,8 @@ A simple Python scraper that collects the latest headlines from Hacker News and 
 ## Installation 🔧
 To get started, clone this repository to your local machine or open it directly in GitHub Codespaces:
 
-##```bash
-git clone https://github.com/YOUR_USERNAME/news-scraper.git
+"```bash
+git clone https://github.com/S1ayt4/news-scraper.git
 cd news-scraper
 ## Install dependencies
 In your terminal, install the required Python libraries with the following command:
